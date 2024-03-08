@@ -12,7 +12,7 @@ var config = {
     auto: false,
     title: 'いしかわ100万石　~19市町で描くGPSアート~',
     subtitle: 'GPSアートを見ながら石川県内を巡っていきいましょう！',
-    byline: 'By Wataru Yoshida, Minaho Ishii',
+    byline: 'By Wataru Yoshida, Minaho Ishii, supported by Taichi Furuhashi a.k.a @mapconcierge',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',    
 	chapters: [
         {
